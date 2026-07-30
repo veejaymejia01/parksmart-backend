@@ -23,20 +23,8 @@ app.use((req, res, next) => {
 
 app.use(helmet());
 app.use(cors({
-  origin: function (origin, callback) {
-    const allowed = [
-      process.env.CLIENT_URL || 'http://localhost:5173',
-      'http://localhost:5174',
-      'http://localhost:5175'
-    ];
-    // Allow requests with no origin (mobile apps, curl, etc.) or any localhost / 127.0.0.1 origin
-    if (!origin || allowed.includes(origin) || /^http:\/\/(localhost|127\.0\.0\.1)(:\d+)?$/.test(origin)) {
-      callback(null, true);
-    } else {
-      callback(new Error('Not allowed by CORS'));
-    }
-  },
-  credentials: true
+  origin: '*',
+  credentials: false
 }));
 
 const limiter = rateLimit({
