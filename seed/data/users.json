@@ -1,0 +1,23 @@
+[
+  {
+    "_id": "6648c3d4e5f6a7b8c9d0e1f0",
+    "name": "Super Admin",
+    "email": "admin@parksmart.ph",
+    "phone": "09171234567",
+    "password": "admin123",
+    "role": "superadmin",
+    "isActive": true,
+    "isVerified": true
+  },
+  {
+    "_id": "6648c3d4e5f6a7b8c9d0e1f2",
+    "name": "Juan Dela Cruz",
+    "email": "juan@example.com",
+    "phone": "09171234569",
+    "password": "password123",
+    "role": "user",
+    "isActive": true,
+    "isVerified": true
+  }
+]
+

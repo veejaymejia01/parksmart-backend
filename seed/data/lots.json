@@ -1,0 +1,14 @@
+[
+  {
+    "_id": "6648a1b2c3d4e5f6a7b8c9d2",
+    "name": "Los Caballeros Club Parking",
+    "address": "Milo St, Manaoag, Pangasinan (Nearby Church)",
+    "lat": 16.044974454285487,
+    "lng": 120.49118634917289,
+    "totalSlots": 10,
+    "ratePerHour": 25,
+    "operatingHours": { "open": "05:00", "close": "22:00" },
+    "isActive": true,
+    "imageUrl": ""
+  }
+]

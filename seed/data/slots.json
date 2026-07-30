@@ -1,0 +1,12 @@
+[
+  { "_id": "6648b2c3d4e5f6a7b8c9d0a0", "lotId": "6648a1b2c3d4e5f6a7b8c9d2", "slotNumber": "SLOT_01", "type": "regular",    "status": "available", "sensorId": "SENSOR_001" },
+  { "_id": "6648b2c3d4e5f6a7b8c9d0a1", "lotId": "6648a1b2c3d4e5f6a7b8c9d2", "slotNumber": "SLOT_02", "type": "regular",    "status": "occupied",  "sensorId": null },
+  { "_id": "6648b2c3d4e5f6a7b8c9d0a2", "lotId": "6648a1b2c3d4e5f6a7b8c9d2", "slotNumber": "SLOT_03", "type": "regular",    "status": "available", "sensorId": null },
+  { "_id": "6648b2c3d4e5f6a7b8c9d0a3", "lotId": "6648a1b2c3d4e5f6a7b8c9d2", "slotNumber": "SLOT_04", "type": "PWD",        "status": "available", "sensorId": null },
+  { "_id": "6648b2c3d4e5f6a7b8c9d0a4", "lotId": "6648a1b2c3d4e5f6a7b8c9d2", "slotNumber": "SLOT_05", "type": "motorcycle", "status": "available", "sensorId": null },
+  { "_id": "6648b2c3d4e5f6a7b8c9d0a5", "lotId": "6648a1b2c3d4e5f6a7b8c9d2", "slotNumber": "SLOT_06", "type": "regular",    "status": "available", "sensorId": null },
+  { "_id": "6648b2c3d4e5f6a7b8c9d0a6", "lotId": "6648a1b2c3d4e5f6a7b8c9d2", "slotNumber": "SLOT_07", "type": "PWD",        "status": "available", "sensorId": null },
+  { "_id": "6648b2c3d4e5f6a7b8c9d0a7", "lotId": "6648a1b2c3d4e5f6a7b8c9d2", "slotNumber": "SLOT_08", "type": "regular",    "status": "occupied",  "sensorId": null },
+  { "_id": "6648b2c3d4e5f6a7b8c9d0a8", "lotId": "6648a1b2c3d4e5f6a7b8c9d2", "slotNumber": "SLOT_09", "type": "regular",    "status": "available", "sensorId": null },
+  { "_id": "6648b2c3d4e5f6a7b8c9d0a9", "lotId": "6648a1b2c3d4e5f6a7b8c9d2", "slotNumber": "SLOT_10", "type": "ev",         "status": "available", "sensorId": null }
+]
